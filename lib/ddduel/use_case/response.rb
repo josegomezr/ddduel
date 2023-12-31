@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
 module DDDuel
-  VERSION = "0.1.0"
+  class UseCase
+    class Response
+    end
+  end
 end
